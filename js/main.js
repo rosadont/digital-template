@@ -15,7 +15,7 @@ function preload(){
     game.load.image('background', 'assets/sprites/back.png');
 	game.load.image('dog', 'assets/sprites/scareddog.png');
 	game.load.audio('audio', 'assets/audio/Steve Aoki & Rune RK - Bring You To Life (Transcend) Ft. Ras (Adrian Hawkins Remix).mp3');
-	game.load.spritesheet('scaredcat', 'assets/sprites/scaredcat.jpg');
+	game.load.spritesheet('scaredcat', 'assets/sprites/scaredcat.png');
 }
 
 function create(){
